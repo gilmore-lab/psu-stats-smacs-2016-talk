@@ -1,0 +1,386 @@
+---
+title: "donald-rumsfeld-and-big-data-beh-sci"
+author: "Rick O. Gilmore"
+date: "`r Sys.time()`"
+bibliography: bib/databrary.bib
+output:
+  ioslides_presentation:
+    css: css/databrary.css
+    widescreen: true
+    incremental: false
+    transition: default
+---
+
+## About
+
+- Associate Professor of Psychology
+- Founding Director of Human Imaging at [SLEIC](http://imaging.psu.edu)
+- Co-founder and Co-Director of the [Databrary.org](http://databrary.org) digital library
+- A.B., Cognitive Science, Brown; M.S. & Ph.D., Cognitive Neuroscience, Carnegie Mellon University.
+- Folk music, theatre, cycling, hiking, paddling, amateur radio (K3ROG)
+
+## Overview
+
+- Why behavioral science is harder than physics
+- Why behavioral science must embrace big(ger) data
+- Challenges with big data behavioral science
+- Some solutions
+- Let's boldly go
+
+## Why psychology is harder than physics {.flexbox .vcenter}
+
+<div class="centered">
+<img src="img/psych-harder-1.jpg" width=800px//>
+</div>
+
+## Why psychology is harder than physics {.flexbox .vcenter}
+
+<div class="centered">
+<img src="img/psych-harder-2.jpg" width=800px//>
+</div>
+
+
+## Why behavioral science must embrace big(ger) data
+
+<div class="centered">
+<img src="http://s3l.stanford.edu/blog/wp-content/uploads/2012/05/datacube.png" height=500px>
+</div>
+
+## Space x time x person
+
+<div class="centered">
+<img src="img/datacube-beh-sci.png" height=500px>
+</div>
+
+----
+
+<div class="centered">
+<a href="http://www.nature.com/neuro/journal/v17/n11/images/nn.3839-F1.jpg">
+<img src="http://www.nature.com/neuro/journal/v17/n11/images/nn.3839-F1.jpg" width="600px">
+</a>
+
+[[@sejnowski_putting_2014]](http://doi.org/10.1038/nn.383)
+</div>
+
+----
+
+<iframe width=800px height=500px src="http://www.humanconnectomeproject.org/"></iframe>
+
+----
+
+<div class="centered">
+<img src="https://www.neuroscienceblueprint.nih.gov/connectome/NIH_Functional-Connectivity-Matrix-full.png" height=500px>
+</div>
+
+<div class="notes">
+Sample connectivity matrix from Human Connectome Project.
+</div>
+
+----
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Social_Network_Analysis_Visualization.png" height=500px>
+</div>
+
+<div class="notes">
+Representative image from social network analysis from wikipedia.
+</div>
+
+----
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qj2uWpYsdcM" frameborder="0" allowfullscreen></iframe>
+
+----
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DafZSeIGLNE" frameborder="0" allowfullscreen></iframe>
+
+<div class="notes">
+Example of [study](http://news.stanford.edu/2016/08/18/combining-satellite-data-machine-learning-to-map-poverty/) from Stanford using machine learning to predict poverty.
+</div>
+
+----
+
+<div class="centered">
+<iframe src="http://news.stanford.edu/2016/08/18/combining-satellite-data-machine-learning-to-map-poverty/" width=800px height=400px>
+</iframe>
+
+[[@jean_combining_2016]](http://doi.org/10.1126/science.aaf7894)
+
+## Poverty shrinks brains
+
+<div class="centered">
+<iframe src="http://doi.org/10.1038/nature.2015.17227" height=400px width=800px>
+</iframe>
+[[@reardon_poverty_2015]](http://doi.org/10.1038/nature.2015.17227), [[@noble_family_2015]](http://doi.org/10.1038/nn.3983)
+</div>
+
+## Overview
+
+- ~~Why behavioral science is harder than physics~~
+- ~~Why behavioral science must embrace big(ger) data~~
+- Challenges with big data behavioral science
+- Some solutions
+- Let's boldly go
+
+## Challenges with big data behavioral science
+
+- Aggregate, link data across **space**, **time**, **individual identities**
+
+----
+
+<div class="centered">
+<img src="https://highscalability.files.wordpress.com/2013/08/cube.jpg" height=500px>
+</div>
+
+<div class="notes">
+The data cube has holes. Big ones.
+</div>
+
+## Challenges with big data behavioral science
+
+- Aggregating big data about individuals poses privacy risks
+
+----
+
+<div class="centered">
+<img src="http://lh3.googleusercontent.com/RoMMyCauMaIccoJZEBWPiBi_l9NQL4AAFYEm8orBh9wMruI6oE6Qw_voIHcWAoVptTUR_uLWiz4eMnZt5TfUCcd8WIwfARQGPE4vWt8C">
+</div>
+
+----
+
+<div class="centered">
+<img src="http://blog.storyful.com/wp-content/uploads/sites/5/2016/04/Facebook-create.png" width=900px>
+</div>
+
+## Insight
+
+- (Many) people will volunteer personal data if given something of value in return
+- What value can *researchers* offer?
+
+----
+
+<div class="centered">
+<img src="https://www.geisinger.org/sebin/l/w/geisinger-logo-2195.png" width=800px>
+</div>
+
+----
+
+<div class="centered">
+<iframe src="http://www.personalgenomes.org/" width=800px height=450px>
+</iframe>
+</div>
+
+## Challenges with big data behavioral science
+
+- Behavior rich, complex
+- Many important behaviors go unmeasured
+- Word and numeric measures don't fully capture phenomena
+
+----
+
+<div class="centered">
+<a href="http://doi.org/10.1126/science.1093567">
+<img src="img/deloache.science.jpg" height=350px>
+</a>
+
+[[@deloache_scale_2004]](http://doi.org/10.1126/science.1093567)
+</div>
+
+----
+
+<div class="centered">
+<video width="640" height="480" controls>
+  <source src="https://nyu.databrary.org/slot/9850/-/asset/11550/download?inline=true" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+[[@b03c5c6c-31b8-445e-9e4f-8917b735bb53]](http://doi.org/10.17910/B7H019)
+</div>
+
+----
+
+<div class="centered">
+<video width="640" height="480" controls>
+  <source src="https://nyu.databrary.org/slot/11647/0,84928/asset/40653/download?inline=true" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+[[@b155b094-099c-4015-8d05-143257d99f28]](http://doi.org/10.17910/B7.236)
+</div>
+
+<div class="notes">
+- Here's another example from Chen Yu and Linda Smith.
+- It shows the results from two, temporally synched head-mounted eye trackers worn by a mother and her infant while the two play with a set of toys.
+- Do infants look at the toys when their mothers direct them to? Do infants look at toys when moms speak?
+- Might this form of "joint attention" be a mechanism for language learning?
+</div>
+
+----
+
+<div class="centered">
+<iframe src="http://pediatrics.aappublications.org/content/early/2016/08/11/peds.2016-1533" width=750px height=500px>
+</iframe>
+
+[[@batra_nocturnal_2016]](http://doi.org/10.1542/peds.2016-1533)
+</div>
+
+----
+
+<div class="centered">
+<video width="640" height="480" controls>
+  <source src="https://nyu.databrary.org/slot/11141/0,5000/asset/37958/download?inline=true" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+[[@6243604f-bfd6-488f-b744-50305e9eefaa]](http://doi.org/10.17910/B7G59R)
+</div>
+
+----
+
+<div class="centered">
+<video width="640" height="480" controls>
+  <source src="https://nyu.databrary.org/slot/11141/0,5000/asset/37962/download?inline=true" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+[[@6243604f-bfd6-488f-b744-50305e9eefaa]](http://doi.org/10.17910/B7G59R)
+</div>
+
+----
+
+<div class="centered">
+<video width="640" height="480" controls>
+  <source src="https://nyu.databrary.org/slot/11141/0,5000/asset/37968/download?inline=true" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+[[@6243604f-bfd6-488f-b744-50305e9eefaa]](http://doi.org/10.17910/B7G59R)
+</div>
+
+----
+
+<iframe src="http://databrary.org" width=640px height=400px>
+</iframe>
+
+## [Databrary.org](http://databrary.org)
+
+- Digital data library specialized for research video
+- Video/audio + participant/context metadata
+- Share displays, materials, text-based data files
+- Policy framework for sharing identifiable data
+- Developmental focus, but not exclusive
+
+## [Databrary.org](http://databrary.org) facilitates data sharing, re-use, preservation
+
+- High capacity, centralized storage
+- Transcoding to common, interoperable formats
+- Long-term preservation
+
+## Databrary helps to overcomes barriers to sharing video
+
+- Policies for sharing identifiable video data
+- Tools for reproducibly coding video
+- Tools for "active curation" == during data collection
+- Tools for searching, filtering
+
+## Policies
+
+- Restrict access to authorized researchers (& affiliates)
+    + PIs and the trainees they supervise
+    + Institutional [access agreement](https://databrary.org/access/policies/agreement.html)
+- Seek permission to share data from participants
+    + Release [template](https://databrary.org/access/policies/release-template.html); [script](https://databrary.org/access/guide/investigators/release/asking/script.html); sample [video](https://databrary.org/video/example-video-1.mp4)
+
+## Standardized (reproducible) release levels
+
+<div class="centered">
+<a href="https://databrary.org/access/guide/investigators/release/release-levels.html">
+<img src="img/release-levels-revised.jpg" width=1000px>
+</a>
+</div>
+
+## Tools for coding video
+
+- Raw research video must be coded by human observers
+- [Datavyu](http://datavyu.org) a free, [open source](https://github.com/databrary/datavyu) coding tool
+- Add codes, annotations time-locked to video segments
+- Turn behavior into quantifiable data
+- Ruby API for [scripting](https://github.com/databrary/Datavyu-Example-Scripts) reproducible workflows
+
+----
+
+<div class="centered">
+<a href="http://datavyu.org/user-guide/index.html">
+<img src="http://datavyu.org/user-guide/_images/annotated-datavyu-desktop.png" width=1000px>
+</a>
+</div>
+
+---- 
+
+<div class="centered">
+<video width="700" height="550" controls>
+  <source src="https://nyu.databrary.org/slot/11652/307774,376273/asset/47075/download?inline=true" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+</div>
+</iframe>
+
+<div class="notes">
+- Here's an example of a short segment of video that has been coded for a some behaviors of interest -- speech, actions involving objects, and locomotion.
+- Notice how the annotations, coupled to the video segments, reveals the complex interrelationships among behaviors.
+- And, we've only focused on a subset of them.
+</div>
+
+## Toward a big data behavioral science
+
+- Data sharing in open (to scientists) repositories
+- Video and other spatially & temporally dense streams essential
+    + Video captures behavior
+    + Video improves [methodological transparency]()
+
+## Toward a big data behavioral science
+
+- Linking data across time, space, individuals
+- Framework for securing participant permission, limiting access
+- Statistical techniques that yield discoveries
+
+## What's Donald Rumsfeld have to do with this?
+
+<div class="centered">
+<img src="http://cdns.yournewswire.com/wp-content/uploads/2016/03/Donald-Rumsfeld.jpg" width=900px>
+</div>
+
+## The Rumsfeldian view of the world
+
+|                     | Knowledge      | No knowledge     |
+|---------------------|----------------|------------------|
+| Memory/awareness    | Known-knowns   | Known-unknowns   |
+| No memory/awareness | Unknown-knowns | Unknown-unknowns |
+
+## Where we spend most of our time...
+
+- Confirming known-knowns >>
+- Testing known-unknowns >>
+- Incorporating unknown-knowns
+
+----
+
+<div class="centered">
+<img src="https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAgPAAAAJGQyMzkzODg4LTNlZDktNDAwYi1hM2NlLTI2ZGFlZjMxMjBjZg.jpg">
+</div>
+
+## Acknowledgments
+
+- [NSF BCS-1238599](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1238599&HistoricalAwards=false)
+- [NICHD U01-HD-076595](https://projectreporter.nih.gov/project_info_description.cfm?aid=8531595&icde=15908155&ddparam=&ddvalue=&ddsub=&cr=1&csb=default&cs=ASC)
+- [Society for Research in Child Development (SRCD)](http://srcd.org)
+- NYU Libraries, NYU IT, IRB, and OSP
+
+## Stay in touch
+
+- rogilmore@psu.edu
+- [github.com/gilmore-lab](http://github.com/gilmore-lab)
+
+## References
+
+
+
+
