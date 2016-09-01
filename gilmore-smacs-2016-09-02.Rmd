@@ -71,7 +71,11 @@ output:
 
 ----
 
-<iframe width=800px height=500px src="http://www.humanconnectomeproject.org/"></iframe>
+<div class="centered">
+<a href="http://www.humanconnectomeproject.org/">
+<img src="img/human-connectome.jpg" width=800px>
+</a>
+</div>
 
 ----
 
@@ -79,18 +83,10 @@ output:
 <img src="https://www.neuroscienceblueprint.nih.gov/connectome/NIH_Functional-Connectivity-Matrix-full.png" height=500px>
 </div>
 
-<div class="notes">
-Sample connectivity matrix from Human Connectome Project.
-</div>
-
 ----
 
 <div class="centered">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Social_Network_Analysis_Visualization.png" height=500px>
-</div>
-
-<div class="notes">
-Representative image from social network analysis from wikipedia.
 </div>
 
 ----
@@ -108,16 +104,16 @@ Example of [study](http://news.stanford.edu/2016/08/18/combining-satellite-data-
 ----
 
 <div class="centered">
-<iframe src="http://news.stanford.edu/2016/08/18/combining-satellite-data-machine-learning-to-map-poverty/" width=800px height=400px>
-</iframe>
+<img src="img/satellite-maps-poverty.jpg" width=800px height=400px>
 
 [[@jean_combining_2016]](http://doi.org/10.1126/science.aaf7894)
+</div>
 
 ## Poverty shrinks brains
 
 <div class="centered">
-<iframe src="http://doi.org/10.1038/nature.2015.17227" height=400px width=800px>
-</iframe>
+<img src="img/poverty-shrinks.jpg" height=450px>
+
 [[@reardon_poverty_2015]](http://doi.org/10.1038/nature.2015.17227), [[@noble_family_2015]](http://doi.org/10.1038/nn.3983)
 </div>
 
@@ -171,15 +167,17 @@ The data cube has holes. Big ones.
 ----
 
 <div class="centered">
-<iframe src="http://www.personalgenomes.org/" width=800px height=450px>
-</iframe>
+<a href="http://www.personalgenomes.org/">
+<img src="img/personal-genomes.jpg" height=450px>
+</a>
 </div>
 
 ----
 
 <div class="centered">
-<iframe src="https://www.openhumans.org/" width=800px height=450px>
-</iframe>
+<a href="http://https://www.openhumans.org/">
+<img src="img/open-humans.jpg" height=450px>
+</a>
 </div>
 
 ## Challenges with big data behavioral science
@@ -431,8 +429,6 @@ Your browser does not support the video tag.
 - [github.com/gilmore-lab](http://github.com/gilmore-lab)
 - [gilmore-lab.github.io](http://gilmore-lab.github.io)
 
-## References
-
-
+## References {.smaller}
 
 
