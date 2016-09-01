@@ -40,7 +40,7 @@ output:
 </div>
 
 
-## Why behavioral science must embrace big(ger) data
+## Behavioral science must embrace big(ger) data
 
 <div class="centered">
 <img src="http://s3l.stanford.edu/blog/wp-content/uploads/2012/05/datacube.png" height=500px>
@@ -51,6 +51,14 @@ output:
 <div class="centered">
 <img src="img/datacube-beh-sci.png" height=500px>
 </div>
+
+## People
+
+- Have families
+- Live in neighborhoods, cities/towns, regions, countries
+- Go to schools, jobs, houses of worship
+- Speak languages
+- Are richer or poorer than their neighbors
 
 ----
 
@@ -124,7 +132,9 @@ Example of [study](http://news.stanford.edu/2016/08/18/combining-satellite-data-
 
 ## Challenges with big data behavioral science
 
-- Aggregate, link data across **space**, **time**, **individual identities**
+- Must gggregate, link data across **space**, **time**, **individual identities**
+- Data not spatially uniform
+- Time series not uniformly sampled, different sampling intervals
 
 ----
 
@@ -144,15 +154,11 @@ The data cube has holes. Big ones.
 
 <div class="centered">
 <img src="http://lh3.googleusercontent.com/RoMMyCauMaIccoJZEBWPiBi_l9NQL4AAFYEm8orBh9wMruI6oE6Qw_voIHcWAoVptTUR_uLWiz4eMnZt5TfUCcd8WIwfARQGPE4vWt8C">
-</div>
 
-----
-
-<div class="centered">
 <img src="http://blog.storyful.com/wp-content/uploads/sites/5/2016/04/Facebook-create.png" width=900px>
 </div>
 
-## Insight
+## Insight and opportunity?
 
 - (Many) people will volunteer personal data if given something of value in return
 - What value can *researchers* offer?
@@ -170,11 +176,27 @@ The data cube has holes. Big ones.
 </iframe>
 </div>
 
+----
+
+<div class="centered">
+<iframe src="https://www.openhumans.org/" width=800px height=450px>
+</iframe>
+</div>
+
 ## Challenges with big data behavioral science
 
 - Behavior rich, complex
 - Many important behaviors go unmeasured
+    - What did you have for breakfast this morning?
+    - Last Thursday?
+
+## Challenges with big data behavioral science
+
 - Word and numeric measures don't fully capture phenomena
+
+----
+
+<iframe src="https://autismandbeyond.researchkit.duke.edu/"></iframe>
 
 ----
 
@@ -329,12 +351,16 @@ Your browser does not support the video tag.
 - And, we've only focused on a subset of them.
 </div>
 
+## What can we learn from large-scale video data sharing?
+
+- Jayaraman, S., Smith, L.B., Raudies, F. & Gilmore, R.O. (2014). Natural Scene Statistics of Visual Experience Across Development and Culture. Databrary. Retrieved September 1, 2016 from <http://doi.org/10.17910/B7988V>.
+
 ## Toward a big data behavioral science
 
 - Data sharing in open (to scientists) repositories
 - Video and other spatially & temporally dense streams essential
     + Video captures behavior
-    + Video improves [methodological transparency]()
+    + Video improves methodological transparency
 
 ## Toward a big data behavioral science
 
@@ -345,7 +371,7 @@ Your browser does not support the video tag.
 ## What's Donald Rumsfeld have to do with this?
 
 <div class="centered">
-<img src="http://cdns.yournewswire.com/wp-content/uploads/2016/03/Donald-Rumsfeld.jpg" width=900px>
+<img src="http://cdns.yournewswire.com/wp-content/uploads/2016/03/Donald-Rumsfeld.jpg" height=500px>
 </div>
 
 ## The Rumsfeldian view of the world
@@ -359,13 +385,39 @@ Your browser does not support the video tag.
 
 - Confirming known-knowns >>
 - Testing known-unknowns >>
-- Incorporating unknown-knowns
+- Considering unknown-knowns
 
 ----
 
 <div class="centered">
 <img src="https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAgPAAAAJGQyMzkzODg4LTNlZDktNDAwYi1hM2NlLTI2ZGFlZjMxMjBjZg.jpg">
 </div>
+
+## Imagine a databservatory...
+
+<div class="centered">
+<img src="img/datacube-beh-sci.png" height=500px>
+</div>
+
+## Starting with *our* university community
+
+<div class="centered">
+<img src="img/we_are_penn_state_0.png" width=800px>
+</div>
+
+## Starting with *our* university community
+
+<div class="centered">
+<img src="img/we_research_penn_state_0.jpg" width=800px>
+</div>
+
+----
+
+- App, web-framework, data-collection tool + repository + analysis platform
+- [Open Humans Project](https://www.openhumans.org/) + [DataWallet](https://datawallet.io/) + [MechanicalTurk](https://www.mturk.com) + [ResearchKit](http://www.apple.com/researchkit/)/[Open Data Kit](https://opendatakit.org/)
+- Link researchers with participants
+- Securely store, manage, share data
+- Participants get their own results + compare to others
 
 ## Acknowledgments
 
@@ -378,6 +430,7 @@ Your browser does not support the video tag.
 
 - rogilmore@psu.edu
 - [github.com/gilmore-lab](http://github.com/gilmore-lab)
+- [gilmore-lab.github.io](http://gilmore-lab.github.io)
 
 ## References
 
